@@ -1,0 +1,10 @@
+version: '3'
+services:
+  mosint:
+    build: .docker/mosint
+    # environment:
+      # - HUNTER=
+      # - EMAILREP=
+      # - INTELX=
+      # - PSBDMP=
+      # - BREACHDIRECTORY=
